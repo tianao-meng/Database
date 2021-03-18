@@ -1,0 +1,12 @@
+(a) How many players have an unknown birthdate?
+
+(b) How many people are in the Hall of Fame? What fraction of each category of person are in the Hall Of Fame? Are more people in the Hall Of Fame alive or dead? Does this vary by
+category?
+
+(c) What are the names and total pay (individually) of the three people with the three largest total salaries? What category are these people (Players? Managers? Other?)? What are the top three by category?
+
+(d) What is the average number of Home Runs a player has?
+
+(e) If we only count players who got at least 1 Home Run, what is the average number of HomeRuns a player has?
+
+(f) If we define a player as a good batter if they have more than the average number of HomeRuns, and a player is a good Pitcher if they have more than the average number of ShutOut games, then how many players are both good batters and good pitchers?
